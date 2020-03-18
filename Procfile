@@ -1,1 +1,1 @@
-web: python habr_form.py
+web: python form.py
